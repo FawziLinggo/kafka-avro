@@ -16,7 +16,7 @@ public class KafkaAvroProducerv1 {
 
         properties.setProperty("key.serializer", StringSerializer.class.getName());
         properties.setProperty("value.serializer", KafkaAvroSerializer.class.getName());
-        properties.setProperty("schema.registry.url", "http://localhost:8081");
+        properties.setProperty("schema.registry.url", "http://192.168.35.220:8081");
 
 
         Producer<String, Customer> producer = new KafkaProducer<String, Customer>(properties);
