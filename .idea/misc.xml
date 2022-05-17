@@ -15,16 +15,16 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="0" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/pom.xml" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
           <option name="caretOffset" value="1201" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/producer/KafkaAvroProducerv1.java" />
         </OpenedFileInfo>
         <OpenedFileInfo>
           <option name="caretOffset" value="405" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/producer/KafkaAvroConsumerV1.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/pom.xml" />
         </OpenedFileInfo>
       </list>
     </option>
